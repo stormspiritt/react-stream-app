@@ -105,9 +105,6 @@ The app achieved:
 
 ---
 
-## Case Study
-
-For more insights into the project, view the full [Android Video Streaming App Case Study by Innowise](https://innowise.com/case/android-video-streaming-app-development/).
 
 ---
 
